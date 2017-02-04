@@ -1,5 +1,0 @@
-Interest Rate:
--interest rate
--good, bad
-[ 0.32063473  0.67936527]
-

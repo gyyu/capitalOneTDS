@@ -1,0 +1,140 @@
+A1
+0    0.987196
+1    0.012804
+Name: Verdict, dtype: float64
+A2
+0    0.977493
+1    0.022507
+Name: Verdict, dtype: float64
+A3
+0    0.97277
+1    0.02723
+Name: Verdict, dtype: float64
+A4
+0    0.961953
+1    0.038047
+Name: Verdict, dtype: float64
+A5
+0    0.955055
+1    0.044945
+Name: Verdict, dtype: float64
+B1
+0    0.952964
+1    0.047036
+Name: Verdict, dtype: float64
+B2
+0    0.945862
+1    0.054138
+Name: Verdict, dtype: float64
+B3
+0    0.93496
+1    0.06504
+Name: Verdict, dtype: float64
+B4
+0    0.929828
+1    0.070172
+Name: Verdict, dtype: float64
+B5
+0    0.92769
+1    0.07231
+Name: Verdict, dtype: float64
+C1
+0    0.914364
+1    0.085636
+Name: Verdict, dtype: float64
+C2
+0    0.895544
+1    0.104456
+Name: Verdict, dtype: float64
+C3
+0    0.894061
+1    0.105939
+Name: Verdict, dtype: float64
+C4
+0    0.883829
+1    0.116171
+Name: Verdict, dtype: float64
+C5
+0    0.874572
+1    0.125428
+Name: Verdict, dtype: float64
+D1
+0    0.865421
+1    0.134579
+Name: Verdict, dtype: float64
+D2
+0    0.8473
+1    0.1527
+Name: Verdict, dtype: float64
+D3
+0    0.844728
+1    0.155272
+Name: Verdict, dtype: float64
+D4
+0    0.826181
+1    0.173819
+Name: Verdict, dtype: float64
+D5
+0    0.819749
+1    0.180251
+Name: Verdict, dtype: float64
+E1
+0    0.81815
+1    0.18185
+Name: Verdict, dtype: float64
+E2
+0    0.792733
+1    0.207267
+Name: Verdict, dtype: float64
+E3
+0    0.77932
+1    0.22068
+Name: Verdict, dtype: float64
+E4
+0    0.77479
+1    0.22521
+Name: Verdict, dtype: float64
+E5
+0    0.76203
+1    0.23797
+Name: Verdict, dtype: float64
+F1
+0    0.768761
+1    0.231239
+Name: Verdict, dtype: float64
+F2
+0    0.745946
+1    0.254054
+Name: Verdict, dtype: float64
+F3
+0    0.704
+1    0.296
+Name: Verdict, dtype: float64
+F4
+0    0.740933
+1    0.259067
+Name: Verdict, dtype: float64
+F5
+0    0.669683
+1    0.330317
+Name: Verdict, dtype: float64
+G1
+0    0.659306
+1    0.340694
+Name: Verdict, dtype: float64
+G2
+0    0.662745
+1    0.337255
+Name: Verdict, dtype: float64
+G3
+0    0.72956
+1    0.27044
+Name: Verdict, dtype: float64
+G4
+0    0.722689
+1    0.277311
+Name: Verdict, dtype: float64
+G5
+0    0.648936
+1    0.351064
+Name: Verdict, dtype: float64
